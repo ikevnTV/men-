@@ -10,7 +10,7 @@ body{
 }
 
 header{
-    background:#ff6b00;
+    background:#727272;
     color:white;
     text-align:center;
     padding:30px;
@@ -65,11 +65,12 @@ header p{
 }
 
 .card span{
+    text-decoration: underline;
     cursor:pointer;
     display:block;
     text-align:center;
     font-size:24px;
-    color:#ff6b00;
+    color:#bd1616;
     font-weight:bold;
     margin:20px 0;
 }
@@ -84,5 +85,5 @@ footer {
     padding: 20px;
     color: rgb(0, 0, 0);
     background-color: transparent; 
-    font-size: 40px;
+    font-size: 23px;
 }
